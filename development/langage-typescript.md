@@ -6,28 +6,35 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌ / ✔️
-- les types de bases ❌ / ✔️
-- comment et pourquoi étendre une interface ❌ / ✔️
-- les classes et les decorators ❌ / ✔️
+- l'intéret de TypeScript dans l'IDE ✔️ : Le typage rend les éditeurs et les environnements de développement intégrés (IDE) plus utiles. Cela offre des fonctionnalités comme la navigation dans le code et la saisie semi-automatique. 
+- les types de bases ✔️ :
+   - String
+   - Boolean 
+   - Number
+   - Array
+   - Null
+   - Undefined
+   - Void
+- comment et pourquoi étendre une interface ✔️ : Ca permet de réutiliser les propriétes de l'interface etendue ( création de composant réutilisable )
+- les classes et les decorators ✔️ : Les classe spermettent de créer des objets ( class Voiture -> créer un objet voiture avec plusieurs élémens différents, le style, le modèle etc..). Les décorateurs rajoutent des fonctionnalités a ses classes.
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌ 
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ❌ 
 
 [lien github](...)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌ 
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌
 
 Description :
 
